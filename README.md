@@ -1,4 +1,4 @@
-# 👋 Hello World! I’m Stef! 
+# 👋 Hello, World! I’m Stef! 
 - 👀 I’m interested in breaking into the tech world and applying everything I've learned so far! 
 - 🌱 I’m currently learning how to interact with public APIs! 
 - 📫 Connect with me through my [LinkedIn](https://www.linkedin.com/in/stefanieshidoosh/)
